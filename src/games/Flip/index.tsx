@@ -25,7 +25,7 @@ function Flip() {
   const [resultIndex, setResultIndex] = React.useState(0)
   const [side, setSide] = React.useState<Side>('heads')
 
-  const WAGER_OPTIONS = [1, 5, 10, 50, 100].map((x) => x * token.baseWager)
+  const WAGER_OPTIONS = [1, 5, 10, 50, 100, 1000].map((x) => x * token.baseWager)
 
   const [wager, setWager] = React.useState(WAGER_OPTIONS[0])
 
