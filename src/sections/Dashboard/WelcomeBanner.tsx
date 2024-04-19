@@ -112,10 +112,10 @@ export function WelcomeBanner() {
         <button onClick={() => window.open(EXPLORER_URL, '_blank')}>
           🚀 Add Liquidity
         </button>
-        <button onClick={() => window.open('https://github.com/gamba-labs/gamba', '_blank')}>
+        <button onClick={() => window.open('https://twitter.com/HowlyOnSol', '_blank')}>
           👨‍💻 Build your own
         </button>
-        <button onClick={() => window.open('https://discord.gg/HSTtFFwR', '_blank')}>
+        <button onClick={() => window.open('https://discord.gg/B4K75c8B', '_blank')}>
           💬 Discord
         </button>
       </Buttons>
