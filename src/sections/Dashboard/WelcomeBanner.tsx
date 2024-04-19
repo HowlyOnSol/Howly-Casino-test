@@ -105,7 +105,7 @@ export function WelcomeBanner() {
       <div>
         <h1>Welcome to Howly Casino 👋</h1>
         <p>
-          A fair, simple and decentralized casino on Solana. "You may experience performance issues, until solana 1.8 coming 30/04"
+          A fair, simple and decentralized casino on Solana.
         </p>
       </div>
       <Buttons>
