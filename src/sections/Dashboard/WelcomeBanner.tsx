@@ -103,7 +103,7 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>Welcome to Gamba v2 👋</h1>
+        <h1>Welcome to Howly 👋</h1>
         <p>
           A fair, simple and decentralized casino on Solana.
         </p>
