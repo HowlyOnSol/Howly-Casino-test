@@ -113,7 +113,7 @@ export function WelcomeBanner() {
           🚀 Add Liquidity
         </button>
         <button onClick={() => window.open('https://twitter.com/HowlyOnSol', '_blank')}>
-          👨‍💻 Build your own
+          👨‍💻 Twitter
         </button>
         <button onClick={() => window.open('https://discord.gg/B4K75c8B', '_blank')}>
           💬 Discord
