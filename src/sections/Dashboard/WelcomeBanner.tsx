@@ -109,9 +109,6 @@ export function WelcomeBanner() {
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open(EXPLORER_URL, '_blank')}>
-          🚀 Add Liquidity
-        </button>
         <button onClick={() => window.open('https://twitter.com/HowlyOnSol', '_blank')}>
           👨‍💻 Twitter
         </button>
